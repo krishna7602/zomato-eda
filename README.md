@@ -69,7 +69,3 @@ Add a license file (e.g., MIT) if you want to make the repo permissively license
 
 ## Contact
 krishna7602 — https://github.com/krishna7602
-
----
-
-Confirm: should I push this README.md to krishna7602/zomato-eda on branch main with commit message "Add README.md"? Or tell me edits you want (sections, wording, actual notebook names, dataset link, license).
